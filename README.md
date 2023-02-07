@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitriy.
-Frontend developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmitriy, Frontend developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.
 
 🧠  I'm learning React / Redux / Redux Toolkit
 
