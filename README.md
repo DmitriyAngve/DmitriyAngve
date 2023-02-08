@@ -1,5 +1,5 @@
 Hi! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">. 
-My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.
+<div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
 🧠  I'm learning React / Redux / Redux Toolkit
 
