@@ -5,7 +5,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
 
  
-<h2>Now I'm learning</h2><p>React / Redux / Redux Toolkit</p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="80"> 
+<h2>Now I'm learning</h2><p>React / Redux / Redux Toolkit</p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90"> 
  
 
 <h2>Skills</h2>
@@ -17,7 +17,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <h2>Badges</h2>
 
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com)
+Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com)
 
 
 <h2>My GitHub Stats</h2>
