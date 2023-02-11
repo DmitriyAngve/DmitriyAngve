@@ -24,7 +24,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
  <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" width="500"/></a>
 
-<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="250"/></a>
+<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>
 
 <div align="center">
 <details>
@@ -32,6 +32,21 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </details>
 </div>
+
+<h2>Сompleted courses</h2>
+
+| Courses                                                         | Duration         | Certificate      |
+| ----------------------------------------------------------------|:---------------: |:---------------: |
+| Build Responsive Real-World Websites with HTML and CSS          | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More!      | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| netology.ru/Основы верстки сайта                                | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| stepik.org/JavaScript для начинающих                            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| stepik.org/Web-технологии: начальный уровень                    | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| practicum.yandex/Факультет Веб разработки                       | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+
+---
 
 <h2>💻 Codewars:</h2>
 
