@@ -22,11 +22,12 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
  <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
- 
+<details>
+  <summary>More stats</summary>
+<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</details>
 
 
 ### 💻 Codewars:
