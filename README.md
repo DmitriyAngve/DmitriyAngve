@@ -4,10 +4,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
 <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
-https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif
 
-
-<img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="200">  Now I'm learning React / Redux / Redux Toolkit 
+<img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="200">  
+<h2> Now I'm learning React / Redux / Redux Toolkit</h2>
  
 
 ### Skills
