@@ -6,7 +6,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
 
  
-<h2> Now I'm learning React / Redux / Redux Toolkit</h2> <img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="50"> 
+<h2>Now I'm learning</h2><p>React / Redux / Redux Toolkit</p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="50"> 
  
 
 ### Skills
