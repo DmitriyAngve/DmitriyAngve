@@ -33,3 +33,6 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <p style="text-align: center;">Thanks for taking the time to scroll down </p>
 
 <!-- <img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="250">  -->
+
+:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com)
+
