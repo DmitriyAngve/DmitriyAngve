@@ -3,12 +3,12 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 </div>
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
-
-<div align="center">
 <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
-</div>
-### Now I'm learning React / Redux / Redux Toolkit 
+https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif
 
+
+<img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="200">  Now I'm learning React / Redux / Redux Toolkit 
+ 
 
 ### Skills
 <p align="left">
