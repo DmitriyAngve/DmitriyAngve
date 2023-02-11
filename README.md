@@ -5,8 +5,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
 
-<img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="200">  
-<h2> Now I'm learning React / Redux / Redux Toolkit</h2>
+ 
+<h2> Now I'm learning React / Redux / Redux Toolkit</h2> <img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="50"> 
  
 
 ### Skills
