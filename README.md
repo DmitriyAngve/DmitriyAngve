@@ -37,14 +37,14 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 | Courses                                                         | Duration         | Certificate      |
 | ----------------------------------------------------------------|:---------------: |:---------------: |
-| Build Responsive Real-World Websites with HTML and CSS          | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More!      | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| netology.ru/Основы верстки сайта                                | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| stepik.org/JavaScript для начинающих                            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| stepik.org/Web-технологии: начальный уровень                    | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
-| practicum.yandex/Факультет Веб разработки                       | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"> | 
+| Build Responsive Real-World Websites with HTML and CSS          | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More!      | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| netology.ru/Основы верстки сайта                                | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| stepik.org/JavaScript для начинающих                            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| stepik.org/Web-технологии: начальный уровень                    | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| practicum.yandex/Факультет Веб разработки                       | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
 
 ---
 
