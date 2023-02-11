@@ -3,7 +3,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 
-<img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="175"> 🧠 Now I'm learning React / Redux / Redux Toolkit 
+<img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="175"> 
+###  Now I'm learning React / Redux / Redux Toolkit 
 
 ### Skills
 <p align="left">
