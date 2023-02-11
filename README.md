@@ -17,7 +17,11 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 ### Badges
-[![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com)
+<!-- [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com) -->
+<h2>📫 Reach me on</h2>
+<p align="center">
+<a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ### My GitHub Stats
 
