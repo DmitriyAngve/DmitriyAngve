@@ -42,12 +42,12 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 | The Complete JavaScript Course 2023: From Zero to Expert!       | 69 total hours   | Jonas Schmedtmann       |
 | JavaScript Dynamic Web Pages AJAX 30 Projects APIs JSON         | 25.5 total hours | Laurence Svekis         |
 | React - The Complete Guide (incl Hooks, React Router, Redux)    | 48.5 total hours | Maximilian Schwarzmüller|
-| Node.js, Express, MongoDB & More: The Complete Bootcamp 2023    | plans to study   | Jonas Schmedtmann       |
-| JavaScript Algorithms and Data Structures Masterclass           | plans to study   | Colt Steele             |
-| 50 Projects In 50 Days - HTML, CSS & JavaScript                 | plans to study   | Brad Traversy           |
-| 100 Days of Code: The Complete Python Pro Bootcamp for 2023     | plans to study   | Dr. Angela Yu           |
-| Understanding TypeScript                                        | plans to study   | Maximilian Schwarzmüller|           
-| Testing React with Jest and React Testing Library (RTL)         | plans to study   | Bonnie Schulkin         | 
+| Node.js, Express, MongoDB & More: The Complete Bootcamp 2023    | in process       | Jonas Schmedtmann       |
+| JavaScript Algorithms and Data Structures Masterclass           | in process       | Colt Steele             |
+| 50 Projects In 50 Days - HTML, CSS & JavaScript                 | in process       | Brad Traversy           |
+| 100 Days of Code: The Complete Python Pro Bootcamp for 2023     | in process       | Dr. Angela Yu           |
+| Understanding TypeScript                                        | in process       | Maximilian Schwarzmüller|           
+| Testing React with Jest and React Testing Library (RTL)         | in process       | Bonnie Schulkin         | 
 
 ---
 
