@@ -1,7 +1,8 @@
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
-🧠  I'm learning React / Redux / Redux Toolkit
+🧠 Now I'm learning React / Redux / Redux Toolkit 
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="75">
 
 ### Skills
 <p align="left">
