@@ -30,13 +30,6 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 ![codewars](https://www.codewars.com/users/Angve/badges/large)
 
 
-<p align="center">
-
-Thanks for taking the time to scroll down
-
-<img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="250"> 
-</p>
-
-<!-- <p style="text-align: center;">Thanks for taking the time to scroll down/p> -->
+<p style="text-align: center;">Thanks for taking the time to scroll down/p>
 
 <!-- <img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="250">  -->
