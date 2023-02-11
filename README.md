@@ -31,11 +31,11 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 ![codewars](https://www.codewars.com/users/Angve/badges/large)
 
-
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmitriyAngve) -->
 <!-- <img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="250">  -->
 
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com)
 
 <div align="center">
-<p>**༼ つ ◕_◕ ༽つ Thanks for taking the time to scroll down ༼ つ ◕_◕ ༽つ**</p>
+<p>༼ つ ◕_◕ ༽つ Thanks for taking the time to scroll down ༼ つ ◕_◕ ༽つ</p>
 </div>
