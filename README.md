@@ -27,13 +27,15 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  -->
  
- <a  href="https://github.com/DmitriyAngve">
+<div align="center" >
+<a  href="https://github.com/DmitriyAngve">
 
-<img src="https://raw.githubusercontent.com/DmitriyAngve/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/DmitriyAngve/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/DmitriyAngve/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
+</div>
 
 ### 💻 Codewars:
 
