@@ -35,16 +35,19 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <h2>Сompleted courses</h2>
 
-| Courses                                                         | Duration         | Certificate      |
-| ----------------------------------------------------------------|:---------------: |:---------------: |
-| Build Responsive Real-World Websites with HTML and CSS          | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More!      | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| netology.ru/Основы верстки сайта                                | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| stepik.org/JavaScript для начинающих                            | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| stepik.org/Web-технологии: начальный уровень                    | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
-| practicum.yandex/Факультет Веб разработки                       | 69 total hours   |<a href="http://www.github.com/DmitriyAngve"></a> | 
+| Courses                                                         | Duration         | Educator                |        
+| ----------------------------------------------------------------|:---------------: |:-----------------------:|
+| Build Responsive Real-World Websites with HTML and CSS          | 37.5 total hours | Jonas Schmedtmann       | 
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More!      | 28 total hours   | Jonas Schmedtmann       |
+| The Complete JavaScript Course 2023: From Zero to Expert!       | 69 total hours   | Jonas Schmedtmann       |
+| JavaScript Dynamic Web Pages AJAX 30 Projects APIs JSON         | 25.5 total hours | Laurence Svekis         |
+| React - The Complete Guide (incl Hooks, React Router, Redux)    | 48.5 total hours | Maximilian Schwarzmüller|
+| Node.js, Express, MongoDB & More: The Complete Bootcamp 2023    | plans to study   | Jonas Schmedtmann       |
+| JavaScript Algorithms and Data Structures Masterclass           | plans to study   | Colt Steele             |
+| 50 Projects In 50 Days - HTML, CSS & JavaScript                 | plans to study   | Brad Traversy           |
+| 100 Days of Code: The Complete Python Pro Bootcamp for 2023     | plans to study   | Dr. Angela Yu           |
+| Understanding TypeScript                                        | plans to study   | Maximilian Schwarzmüller|           
+| Testing React with Jest and React Testing Library (RTL)         | plans to study   | Bonnie Schulkin         | 
 
 ---
 
