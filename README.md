@@ -19,7 +19,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 ### Badges
 [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirirch129@gmail.com)
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
  <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" width="500"/></a>
 
