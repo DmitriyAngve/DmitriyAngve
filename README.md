@@ -5,7 +5,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
 
  
-<h2>Now I'm learning</h2><p>React / React Router / Next.js</p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90"> 
+<h2>Now I'm learning</h2><p>React / Next.js</p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90"> 
  
 
 <h2>Skills</h2>
