@@ -2,10 +2,10 @@
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
-<img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250"> 
+<!-- <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250">  -->
 
  
-<h2>Now I'm learning</h2><p>React / Next.js / TypeScript </p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90"> 
+<!-- <h2>Now I'm learning</h2><p>React / Next.js / TypeScript </p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90">  -->
  
 
 <h2>Skills</h2>
