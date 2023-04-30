@@ -53,7 +53,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 ![codewars](https://www.codewars.com/users/Angve/badges/large)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmitriyAngve)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmitriyAngve) -->
 <!-- <img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="250">  -->
 
 
