@@ -31,7 +31,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 </details>
 </div>
 
-<h2>Сompleted courses</h2>
+<!-- <h2>Сompleted courses</h2>
 
 | Courses                                                         | Duration         | Educator                |        
 | ----------------------------------------------------------------|:---------------: |:-----------------------:|
@@ -45,7 +45,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 | 50 Projects In 50 Days - HTML, CSS & JavaScript                 | in process       | Brad Traversy           |
 | 100 Days of Code: The Complete Python Pro Bootcamp for 2023     | in process       | Dr. Angela Yu           |
 | Understanding TypeScript                                        | in process       | Maximilian Schwarzmüller|           
-| Testing React with Jest and React Testing Library (RTL)         | in process       | Bonnie Schulkin         | 
+| Testing React with Jest and React Testing Library (RTL)         | in process       | Bonnie Schulkin         |  -->
 
 ---
 
