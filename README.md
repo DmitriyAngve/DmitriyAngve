@@ -32,6 +32,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 </div>
 
 <h2>Сompleted courses</h2>
+
 | Courses                                                         | Duration         | Educator                |        
 | ----------------------------------------------------------------|:---------------: |:-----------------------:|
 | Build Responsive Real-World Websites with HTML and CSS          | 37.5 total hours | Jonas Schmedtmann       | 
