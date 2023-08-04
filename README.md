@@ -47,6 +47,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 | Understanding TypeScript                                        | in process       | Maximilian Schwarzmüller|           
 | Testing React with Jest and React Testing Library (RTL)         | in process       | Bonnie Schulkin         |  
 
+
+
 <h2>💻 Codewars:</h2>
 
 
