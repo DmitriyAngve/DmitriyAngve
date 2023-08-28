@@ -1,5 +1,4 @@
 
-
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
@@ -21,11 +20,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <h2>My GitHub Stats</h2>
 
-<!--[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/DmitriyAngve/github-readme-activity-graph)-->
-
-
-<!--[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact)](https://github.com/DmitriyAngve/github-readme-activity-graph)-->
-
+<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=22c55e&background=1c1917&ring=10b981&fire=10b981&currStreakNum=22c55e&currStreakLabel=10b981&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 
 <a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>
