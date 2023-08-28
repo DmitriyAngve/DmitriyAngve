@@ -22,8 +22,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <h2>My GitHub Stats</h2>
 
 <!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DmitriyAngve)](https://github.com/anuraghazra/github-readme-stats)
--->
-<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>
+--><!--
+<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>-->
 
 <a href="https://github.com/your-username" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="300"/>
