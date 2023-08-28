@@ -29,7 +29,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <div>
 <details>
   <summary>More stats</summary>
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact" alt="GitHub Commits Graph" /></a>
 </details>
 </div>
 
