@@ -23,9 +23,11 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 (https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>
-
 [![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/DmitriyAngve/github-readme-activity-graph)
+
+[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact)](https://github.com/DmitriyAngve/github-readme-activity-graph)
+
+<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>
 
 
 <div align="center">
