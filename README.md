@@ -24,7 +24,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <!--[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/DmitriyAngve/github-readme-activity-graph)-->
 
 
-[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact)](https://github.com/DmitriyAngve/github-readme-activity-graph)
+<!--[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact)](https://github.com/DmitriyAngve/github-readme-activity-graph)-->
 
 
 
