@@ -25,14 +25,21 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=1c1917&color=14b8a6&line=14b8a6&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<div align="center">
+ 
 <details>
   <summary>More stats</summary>
 <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </details>
 </div>
+<p align="center">
+  <a href="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
+    <img
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=000000&color=14b8a6&line=22c55e&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+      alt="GitHub Commits Graph"
+    />
+  </a>
+</p>
+
 
 <h2>Сompleted courses</h2>
 
