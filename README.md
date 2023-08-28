@@ -19,10 +19,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 <h2>My GitHub Stats</h2>
-
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=22c55e&background=1c1917&ring=10b981&fire=10b981&currStreakNum=22c55e&currStreakLabel=10b981&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
-
-<!--<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300"/></a>-->
+[![DmitriyAngve's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact)](https://github.com/DmitriyAngve/github-readme-activity-graph)
 
 <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
