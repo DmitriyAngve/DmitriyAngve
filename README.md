@@ -54,9 +54,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 <h2>💻 Codewars:</h2>
+
 ![image](https://www.codewars.com/users/Angve/badges/large)
-
-
 
 <div align="center">
 <p>༼ つ ◕_◕ ༽つ Thanks for taking the time to scroll down ༼ つ ◕_◕ ༽つ</p>
