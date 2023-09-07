@@ -35,6 +35,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve)](https://github.com/DmitriyAngve/github-readme-stats)-->
 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/DmitriyAngve/threejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitriyAngve&repo=threejs&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DmitriyAngve/blog-ai" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DmitriyAngve&repo=blog-ai&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <h2>Сompleted courses</h2>
 
