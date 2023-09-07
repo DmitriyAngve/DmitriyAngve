@@ -33,7 +33,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 </details>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve)](https://github.com/DmitriyAngve/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve)](https://github.com/DmitriyAngve/github-readme-stats)-->
 
 <h2>Сompleted courses</h2>
 
@@ -54,10 +54,6 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 <h2>💻 Codewars:</h2>
-
-
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmitriyAngve)
-<!-- <img src="https://media.giphy.com/media/U4dSem18gg72o7Rq0F/giphy.gif" width="250">  -->
 
 
 
