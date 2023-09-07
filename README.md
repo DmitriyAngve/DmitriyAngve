@@ -35,14 +35,6 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve)](https://github.com/DmitriyAngve/github-readme-stats)
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DmitriyAngve&bg_color=1c1917&color=14b8a6&line=14b8a6&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <h2>Сompleted courses</h2>
 
 | Courses                                                         | Duration         | Educator                |        
@@ -62,7 +54,6 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 <h2>💻 Codewars:</h2>
-
 
 
 [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmitriyAngve)
