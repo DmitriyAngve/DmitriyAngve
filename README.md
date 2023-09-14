@@ -57,7 +57,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 ![image](https://www.codewars.com/users/Angve/badges/large)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DmitriyAngve)](https://github.com/DmitriyAngve/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&layout=compact)
 
 
 <div align="center">
