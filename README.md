@@ -57,6 +57,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 ![image](https://www.codewars.com/users/Angve/badges/large)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DmitriyAngve)](https://github.com/DmitriyAngve/github-readme-stats)
+
+
 <div align="center">
 <p>༼ つ ◕_◕ ༽つ Thanks for taking the time to scroll down ༼ つ ◕_◕ ༽つ</p>
 </div>
