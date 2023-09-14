@@ -58,9 +58,6 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 ![image](https://www.codewars.com/users/Angve/badges/large)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&layout=compact)
-
-
 <div align="center">
 <p>༼ つ ◕_◕ ༽つ Thanks for taking the time to scroll down ༼ つ ◕_◕ ༽つ</p>
 </div>
