@@ -4,7 +4,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&size_weight=0.5&count_weight=0.5&langs_count=15)-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyAngve&theme=default)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyAngve&theme=default)-->
 
 <!-- <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250">  -->
 
