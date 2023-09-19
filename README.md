@@ -2,12 +2,7 @@
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
-
-![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/languages.svg?token=GHSAT0AAAAAACFCGOGP5LYPCLG6XQ7QEMIKZIJNFPA)
-![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/overview.svg?token=GHSAT0AAAAAACFCGOGPUWGT6Q2U4LNPKHT4ZIJNEDQ)
-
-
-[View My GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/api.html?DmitriyAngve)
+<!--[View My GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/api.html?DmitriyAngve)-->
 <!--![GitHub Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyAngve&theme=dark)-->
 
 <!-- <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250">  --> 
@@ -29,6 +24,11 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <h2>My GitHub Stats</h2>
 
 <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+
+![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/languages.svg?token=GHSAT0AAAAAACFCGOGP5LYPCLG6XQ7QEMIKZIJNFPA)
+![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/overview.svg?token=GHSAT0AAAAAACFCGOGPUWGT6Q2U4LNPKHT4ZIJNEDQ)
+
 
 <!--<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=8&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
 
