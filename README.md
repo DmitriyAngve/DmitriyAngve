@@ -4,7 +4,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 [View My GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/api.html?DmitriyAngve)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={DmitriyAngve}&theme={theme_name}&exclude={exclude}
+[View My GitHub Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={DmitriyAngve}&theme={gruvbox}&exclude={html})
 
 <!-- <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250">  --> 
 <!-- <h2>Now I'm learning</h2><p>React / Next.js / TypeScript </p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90">  --> 
