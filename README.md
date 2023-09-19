@@ -2,7 +2,7 @@
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?DmitriyAngve" frameborder="0"></iframe>
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&size_weight=0.5&count_weight=0.5&langs_count=15)-->
 
