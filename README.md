@@ -22,9 +22,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 
 <h2>My GitHub Stats</h2>
-
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
+<div align="center">
+  <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=14b8a6&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&  currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+</div>
 
 ![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/languages.svg?token=GHSAT0AAAAAACFCGOGP5LYPCLG6XQ7QEMIKZIJNFPA)
 ![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/overview.svg?token=GHSAT0AAAAAACFCGOGPUWGT6Q2U4LNPKHT4ZIJNEDQ)
