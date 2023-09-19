@@ -2,6 +2,11 @@
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
+
+![](https://raw.githubusercontent.com/DmitriyAngve/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DmitriyAngve/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
 [View My GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/api.html?DmitriyAngve)
 <!--![GitHub Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyAngve&theme=dark)-->
 
