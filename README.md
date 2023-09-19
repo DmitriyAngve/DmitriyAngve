@@ -3,7 +3,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
 
-![](https://raw.githubusercontent.com/DmitriyAngve/testing/5259ec91422facbc15d27f7433ad4280faa6db85/generated/languages.svg)
+![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/languages.svg?token=GHSAT0AAAAAACFCGOGP5LYPCLG6XQ7QEMIKZIJNFPA)
 ![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/overview.svg?token=GHSAT0AAAAAACFCGOGPUWGT6Q2U4LNPKHT4ZIJNEDQ)
 
 
