@@ -4,13 +4,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 [View My GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/api.html?DmitriyAngve)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&size_weight=0.5&count_weight=0.5&langs_count=15)-->
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={DmitriyAngve}&theme={theme_name}&exclude={exclude}
 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyAngve&theme=default)-->
-
-<!-- <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250">  -->
-
- 
+<!-- <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="250">  --> 
 <!-- <h2>Now I'm learning</h2><p>React / Next.js / TypeScript </p><img src="https://media.giphy.com/media/njtPBlbYnHAHK/giphy.gif" width="90">  --> 
 
 <h2>Skills</h2>
@@ -38,7 +34,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact&count_private=true"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact" alt="GitHub Commits Graph" /></a>
 </details>
 </div>
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)-->
+
 <h2>Сompleted courses</h2>
 
 | Courses                                                         | Duration         | Educator                |        
