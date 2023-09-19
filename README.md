@@ -27,7 +27,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 ![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/overview.svg?token=GHSAT0AAAAAACFCGOGOJVKNSXOBTSGTDJSCZIJNPMA)
 
-<!--![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/overview.svg?token=GHSAT0AAAAAACFCGOGPUWGT6Q2U4LNPKHT4ZIJNEDQ)-->
+![](https://raw.githubusercontent.com/DmitriyAngve/testing/master/generated/languages.svg?token=GHSAT0AAAAAACFCGOGOZ5EGRZBSFXQ33PEAZIJNRPA)
 
 
 <!--<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=8&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
