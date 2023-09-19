@@ -2,7 +2,7 @@
 Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="75">
 <div>My name is Dmitriy, Frontend Developer and inexhaustible enthusiast in learning and programming. I have been studying programming for over a year, after I have made a decision to change my profession. I practice self-study and learn programming in small courses on udemy.com.</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&size_weight=0.5&count_weight=0.5&langs_count=15)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&size_weight=0.5&count_weight=0.5&langs_count=15)-->
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyAngve&theme=default)-->
 
