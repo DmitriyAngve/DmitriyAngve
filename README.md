@@ -21,6 +21,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DmitriiVenediktov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DmitriyAngve) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:venediktov.work@gmail.com)
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-stats.vercel.app/api?username=DmitriyAngve&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=10b981&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DmitriyAngve's GitHub stats" /></a>
+
 <a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=10b981&background=1c1917&ring=10b981&fire=10b981&currStreakNum=10b981&currStreakLabel=10b981&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 ![GitHub Actions SVG](https://github.com/DmitriyAngve/testing/blob/master/generated/languages.svg)
