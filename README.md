@@ -22,11 +22,11 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=10b981&background=1c1917&ring=10b981&fire=10b981&currStreakNum=10b981&currStreakLabel=10b981&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
 ![GitHub Actions SVG](https://github.com/DmitriyAngve/testing/blob/master/generated/languages.svg)
 
 ![GitHub Actions](https://raw.githubusercontent.com/DmitriyAngve/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+<a href="http://www.github.com/DmitriyAngve"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyAngve&stroke=10b981&background=1c1917&ring=10b981&fire=10b981&currStreakNum=10b981&currStreakLabel=10b981&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 
 <!--<a href="https://github.com/DmitriyAngve" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyAngve&langs_count=8&title_color=14b8a6&text_color=14b8a6&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
