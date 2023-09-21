@@ -60,6 +60,9 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 ![image](https://www.codewars.com/users/Angve/badges/large)
 
+<h2>💻 leetCode:</h2>
+[![LeetCode user DmitriyAngve](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FDmitriyAngve&logo=leetcode&logoColor=yellow)](https://leetcode.com/DmitriyAngve/)
+
 
 <div align="center">
 <p>༼ つ ◕_◕ ༽つ Thanks for taking the time to scroll down ༼ つ ◕_◕ ༽つ</p>
