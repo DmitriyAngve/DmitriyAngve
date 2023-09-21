@@ -61,7 +61,8 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 ![image](https://www.codewars.com/users/Angve/badges/large)
 
 <h2>💻 leetCode:</h2>
-[![LeetCode user DmitriyAngve](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%DmitriyAngve&logo=leetcode&logoColor=yellow)](https://leetcode.com/DmitriyAngve/)
+
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/cascandaliato/)
 
 
 <div align="center">
