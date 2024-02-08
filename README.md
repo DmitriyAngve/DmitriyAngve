@@ -33,7 +33,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 
 <div>
 <details>
-  <summary>More stats</summary>
+<!--   <summary>More stats</summary> -->
 <a href="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact&count_private=true"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyAngve&theme=github-compact" alt="GitHub Commits Graph" /></a>
 </details>
 </div>
