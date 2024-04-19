@@ -47,7 +47,7 @@ Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width=
 | The Complete JavaScript Course 2023: From Zero to Expert!       | 69 total hours   | Jonas Schmedtmann       |
 | JavaScript Dynamic Web Pages AJAX 30 Projects APIs JSON         | 25.5 total hours | Laurence Svekis         |
 | React - The Complete Guide (incl Hooks, React Router, Redux)    | 48.5 total hours | Maximilian Schwarzmüller|
-| Node.js, Express, MongoDB & More: The Complete Bootcamp 2023    | in proces        | Jonas Schmedtmann       |
+| Node.js, Express, MongoDB & More: The Complete Bootcamp 2023    | 42 total hours   | Jonas Schmedtmann       |
 | JavaScript Algorithms and Data Structures Masterclass           | in process       | Colt Steele             |
 | 50 Projects In 50 Days - HTML, CSS & JavaScript                 | in process       | Brad Traversy           |
 | 100 Days of Code: The Complete Python Pro Bootcamp for 2023     | in process       | Dr. Angela Yu           |
